@@ -1,0 +1,10 @@
+/* header styles */
+.dcc-header {
+  &__branding {
+    color: red;
+  }
+
+  &__nav-item {
+    display: inline-block;
+  }
+}

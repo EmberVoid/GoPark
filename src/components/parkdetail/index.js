@@ -10,7 +10,6 @@ const Parkdetail = ({ park }) => {
     backgroundAttachment: 'fixed',
     backgroundSize: 'cover',
     minHeight: '100vh',
-    transition: 'all .2s ease-in-out',
   };
 
   return (

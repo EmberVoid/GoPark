@@ -3,12 +3,12 @@ import React from 'react'
 import './infocard.scss'
 
 
-const Infocard = ({ title, imagelink }) => {
+const Infocard = ({ title, imagelink, article }) => {
   return (
     <div>
       <div className={"container"}>
         <div className={"title"}>
-          <p className={"code"}>Los Quetzales</p>
+          <p className={"code"}>Los Quetzaleeeees</p>
         </div>
       </div>
 
@@ -18,7 +18,11 @@ const Infocard = ({ title, imagelink }) => {
           <div className={"row between-xs"}>
             <div className={"col-xs-2"}>
               <div className={"box pv2"}>
-                <p className={"pointer"}>Más Información</p>
+                <p
+                  className="pointer"
+                  onClick={article}>
+                  Más Información
+                </p>
               </div>
             </div>
             <div className={"col-xs-2"}>

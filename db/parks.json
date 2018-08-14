@@ -1,0 +1,58 @@
+{
+  "parks": [
+    {
+      "id": "0",
+      "title": "Volcán Arenal",
+      "province": "Alajuela",
+      "fact": "Antes de 1968, se dudaba de si el dicho volcán era siquiera uno, ya que estaba extinto desde que había registro; Se le conocía Cerro Arenal. Pero el día 29 de julio de dicho año se abrieron tres cráteres causando una explosión.",
+      "info": "Ésta área es de gran importancia para la conservación del régimen hídrico local, con lo que se garantiza el aporte constante de aguas al embalse Arenal y a los asentamientos humanos cercanos. También considera la belleza escénica y la actividad volcánica, que son atractivos turísticos importantes para el desarrollo regional, la actividad económica y el aporte al sistema nacional de electrificación.",
+      "maplink": "https://goo.gl/maps/JzmigHcz8AQ2",
+      "imagelink": "https://i.imgur.com/mmN5w1w.jpg"
+    },
+    {
+      "id": "1",
+      "title": "La Cangreja",
+      "province": "San José",
+      "fact": "Su origen data de 1984, cuando se le otorgó la categoría de Zona Protectora. Posteriormente, el 5 de junio de 2002 se declaró como Parque nacional La Cangreja.",
+      "info": "La Cangreja forma parte del Sistema Nacional de Áreas de Conservación (SINAC).  Ademas contiene las últimas partes naturales inalteradas de toda la región de Puriscal, también es la principal fuente de abastecimiento de agua para algunas comunidades aledañas (Mastatal, San Vicente, San Miguel y el territorio indígena de Zapatón, entre otras) y sirve para estabilizar el clima local. Aquí se encuentran los ríos Negro y la Quebrada Grande. El Parque también cuenta con espectaculares cataratas y posee dos zonas de vida: bosque muy húmedo transición a premontano y bosque pluvial premontano.",
+      "maplink": "https://www.waze.com/es/directions/costa-rica/santa-rosa,-chires/parque-nacional-la-cangreja/180617313.1806173131.5295198.html",
+      "imagelink": "https://i.imgur.com/AEpiFps.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Braulio Carrillo",
+      "province": "Heredia, San José, Cartago, Limón",
+      "fact": "Constituyen la segunda Reserva de Biósfera de Costa Rica, que recibe el nombre de Área de Conservación Cordillera Volcánica Central estatus otorgado por la Unesco en el año 1988.",
+      "info": "Se ubica en la Cordillera Volcánica Central, al noreste del Valle Central, e incluye el Volcán Barva, el volcán Cacho Negro y el Bajo de la Hondura. El bosque que cubre el parque, como un verdadero e inmenso pulmón, provee de un delicado balance dióxido de carbono-oxígeno, a los habitantes de las dos vertientes. Dentro de los límites de este famoso parque nacional, los visitantes descubren cinco bosques distintamente separados; posee un diferente y variado segmento del reino natural de Costa Rica.",
+      "maplink": "https://www.waze.com/location?h=d1u3ccypj",
+      "imagelink": "https://i.imgur.com/5SEZgqX.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Las Baulas",
+      "province": "Guanacaste",
+      "fact": "El Parque Nacional Marino Las Baulas fue creado con el fin de brindar protección a las poblaciones de tortugas baula que llegan a anidar a tres playas principales del parque: Grande (3.6 km), Ventanas (1 km) y Langosta (1.3 km).",
+      "info": "La tortuga baula es la especie de tortuga más grande del mundo y se encuentra en peligro crítico de extinción, y la zona de desove del Parque Nacional Marino Las Baulas es la región de anidación más importante de esta tortuga en todo el Pacífico americano. Además, el parque también protege el manglar del estuario del río Matapalo, en el Estero de Tamarindo, el cual es un Sitio Ramsar y se considera el manglar estatuario más grande de América Latina; igualmente, el parque también protege un remanente de bosque seco localizado en el cerro El Morro.",
+      "maplink": "https://goo.gl/maps/F8VvJoEkUMF2",
+      "imagelink": "https://i.imgur.com/3CLmd0a.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Tapantí",
+      "province": "Cartago",
+      "fact": "El parque logra cubrir una gran variedad de biodiversidad en un poco espacio gracias a lo aislado de la zona y a la variedad de alturas que presenta el terreno.",
+      "info": "El Parque nacional Tapantí es una reserva natural que se encuentra ubicada en el Área de Conservación La Amistad - Pacífico , en conjunto con el macizo de la Muerte, al noreste de la Cordillera de Talamanca, en el centro-sur.",
+      "maplink": "https://goo.gl/maps/sbSwHZJzhpK2",
+      "imagelink": "https://i.imgur.com/QB1dasT.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Isla del Coco",
+      "province": "Puntarenas",
+      "fact": "Se dice que su nombre deriva de la gran cantidad de cocos que había en la isla, pero cobra fuerza una versión metafórica de su parecido a un coco con mucha agua por dentro, dada la escasez de agua potable en cientos de kilómetros a la redonda y allí en cambio se han contado más de 2000 cascadas que caen al mar durante eventos lluviosos grandes.",
+      "info": "La isla es considerada un laboratorio natural para el estudio de la evolución de las especies. Es extremadamente lluviosa, unos 7.000 mm por año, cubierta de un bosque siempreverde, el cual presenta condición nubosa en el Cerro Iglesias. Es muy quebrada, lo que da lugar a la formación de muchas cascadas, algunas de las cuales caen espectacularmente al mar, desde gran altura. La costa es muy sinuosa, tiene acantilados de hasta 183 metros de altura y numerosas cuevas submarinas. El mar, azul turquesa es de extraordinaria transparencia.",
+      "maplink": "https://goo.gl/maps/6UDCeeYy3Cq",
+      "imagelink": "https://i.imgur.com/TMVqRwE.jpg"
+    }
+  ]
+}

@@ -5,7 +5,6 @@ import './parkdetail.scss'
 const Parkdetail = ({ park }) => {
   let fullbleedBackground = {
     background: 'url(' + park.imagelink + ')',
-    backgroundPosition: 'center',
     backgroundRepeat: 'no-repeat',
     backgroundAttachment: 'fixed',
     backgroundSize: 'cover',

@@ -7,7 +7,7 @@ const heredia = () => {
   return (
     <div>
           <FullBleed />
-          <ParkDetail />
+          <ParkDetail province ='Heredia'/>
     </div>
   )
 }

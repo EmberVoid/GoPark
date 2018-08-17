@@ -7,7 +7,7 @@ const cartago = () => {
   return (
     <div>
           <FullBleed />
-          <ParkDetail />
+          <ParkDetail province ='Cartago'/>
     </div>
   )
 }

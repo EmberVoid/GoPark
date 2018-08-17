@@ -11,33 +11,150 @@
     },
     {
       "id": "1",
-      "title": "La Cangreja",
-      "province": "San José",
-      "fact": "Su origen data de 1984, cuando se le otorgó la categoría de Zona Protectora. Posteriormente, el 5 de junio de 2002 se declaró como Parque nacional La Cangreja.",
-      "info": "La Cangreja forma parte del Sistema Nacional de Áreas de Conservación (SINAC).  Ademas contiene las últimas partes naturales inalteradas de toda la región de Puriscal, también es la principal fuente de abastecimiento de agua para algunas comunidades aledañas (Mastatal, San Vicente, San Miguel y el territorio indígena de Zapatón, entre otras) y sirve para estabilizar el clima local. Aquí se encuentran los ríos Negro y la Quebrada Grande. El Parque también cuenta con espectaculares cataratas y posee dos zonas de vida: bosque muy húmedo transición a premontano y bosque pluvial premontano.",
-      "maplink": "https://www.waze.com/es/directions/costa-rica/santa-rosa,-chires/parque-nacional-la-cangreja/180617313.1806173131.5295198.html",
-      "imagelink": "https://i.imgur.com/AEpiFps.jpg"
+      "title": "Diriá",
+      "province": "Guanacaste",
+      "fact": "Con una extensión de 28 km² es el área silvestre con mayor extensión estatal dentro del Área de Conservación Tempisque, a nivel terrestre.",
+      "info": "El Bosque Diriá está conformado por 4.000 hectáreas de bosque seco y, en su parte más alta, bosque tropical húmedo. Actualmente hay una cantidad importante de bosque virgen, entre las especies de flora más sobresalientes en la zona se encuentran el Pochote, el Tempisque, el Guanacaste, el Guapinol, Madroños, Cocobolos y el Cenízaro.",
+      "maplink": "https://goo.gl/maps/T18uQmnsc8s",
+      "imagelink": "https://i.imgur.com/kORh2Xz.jpg"
     },
     {
       "id": "2",
+      "title": "Barra Honda",
+      "province": "Guanacaste",
+      "fact": "La erosión de estos depósitos ha generado un relieve de tipo cárstico, habiéndose descubierto hasta la actualidad más de cuarenta cavernas (La Trampa, Santa Ana, Terciopelo o Pozo Hediondo), sobre las que inciden de forma desigual unas precipitaciones que superan los 2.000 mm anuales.",
+      "info": "Las referidas cavernas sirven de hábitat a diversas especies de murciélagos. El clima, húmedo y cálido, ha favorecido el desarrollo de una vegetación de madroños, Poroporo, cocobolo, caoba, pochote, gallinazo, indio desnudo y peine de mico, que constituyen el hábitat y el alimento para numerosos venados, zopilotes, coyotes, armadillos, osos hormigueros, ardillas y monos congo que poblan el parque.",
+      "maplink": "https://goo.gl/maps/EgWKhkVqD8T2",
+      "imagelink": "https://i.imgur.com/TMIAcGl.jpg"
+    },
+    {
+      "id": "3",
       "title": "Braulio Carrillo",
       "province": "Heredia, San José, Cartago, Limón",
       "fact": "Constituyen la segunda Reserva de Biósfera de Costa Rica, que recibe el nombre de Área de Conservación Cordillera Volcánica Central estatus otorgado por la Unesco en el año 1988.",
       "info": "Se ubica en la Cordillera Volcánica Central, al noreste del Valle Central, e incluye el Volcán Barva, el volcán Cacho Negro y el Bajo de la Hondura. El bosque que cubre el parque, como un verdadero e inmenso pulmón, provee de un delicado balance dióxido de carbono-oxígeno, a los habitantes de las dos vertientes. Dentro de los límites de este famoso parque nacional, los visitantes descubren cinco bosques distintamente separados; posee un diferente y variado segmento del reino natural de Costa Rica.",
       "maplink": "https://www.waze.com/location?h=d1u3ccypj",
-      "imagelink": "https://i.imgur.com/5SEZgqX.jpg"
+      "imagelink": "https://i.imgur.com/S7cdH3Q.jpg"
     },
     {
-      "id": "3",
+      "id": "4",
+      "title": "Cahuita",
+      "province": "Limón",
+      "fact": "El parque fue creado para proteger la flora y fauna, los arrecifes de coral y varios ecosistemas marinos. Es considerado una de las áreas de mayor belleza escénica del país por sus playas de arena blanca, su gran número de cocoteros, su mar de color azul turquesa y su arrecife de coral.",
+      "info": "El parque se encuentra dentro de la zona de vida bosque tropical húmedo y posee varios hábitats importantes como son el bosque pantanoso con especies de cativo, sangregao y fruta dorada; el bosque mixto no inundado con especies de guaitíl, jorco y cerillo; el manglar, con predominio del mangle colorado; y la vegetación del litoral, con abundancia de cocoteros y papaturros. El arrecife coralino abarca una extensión de 600 ha y se extiende frente a punta Cahuita, entre el río Perezoso y Puerto Vargas. Una parte de la plataforma arrecifal se encuentra sumergida a unos 11 metros bajo el nivel del mar. Según estudios realizados después del terremoto del 22 de abril de 1991, la plataforma arrecifal emergió 1 metro. Es el arrecife más desarrollado de la costa del Caribe costarricense.",
+      "maplink": "https://goo.gl/maps/1J28KZkLbKJ2",
+      "imagelink": "https://i.imgur.com/YmzpF4B.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Chirripó",
+      "province": "Limón, Puntarenas, San José, Cartago",
+      "fact": "Famoso porque en el se encuentra el punto más alto de Costa Rica, el cerro Chirripó, a una altura de 3.820metros sobre el nivel del mar.",
+      "info": "Rodeado además de plantaciones de café y campos para la agricultura. La variedad climática permite un desarrollo y cambio en la flora y fauna. En esta área predomina el páramo de montaña con arbustos de una altura no mayor a unos 4 metros. En un área más baja se da el bosque nuboso húmedo, de temperaturas frías con árboles de una longitud no mayor a los 50 metros. Estos son de encino y roble, siempreverdes. Tiene mucho musgo, helechos, y bromelias.",
+      "maplink": "https://goo.gl/maps/KtsVFY3hqe32",
+      "imagelink": "https://i.imgur.com/FL4Es3l.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Corcovado",
+      "province": "Puntarenas",
+      "fact": "Este parque está situado en la Península de Osa y rodeado de interminables playas de arena blanca. Ah, y tiene el único parque lluvioso tropical del mundo. Casi nada, ¿no?",
+      "info": "Es considerado una pieza muy importante en el amplio sistema de parques nacionales y reservas biológicas del país. La diversidad biológica es sorprendente. National Geographic lo ha llamado el lugar más intenso del mundo, biológicamente hablando y se estima que ningún lugar en el mundo (que posea una extensión similar) albergue una mayor diversidad biológica.",
+      "maplink": "https://goo.gl/maps/fCA2m9krfYk",
+      "imagelink": "https://i.imgur.com/v7Nqxqm.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Juan Castro Blanco",
+      "province": "Alajuela",
+      "fact": "Ahí se encuentra Bajos del Toro, probablemente el salto de agua más increíble de Costa Rica y una obligación para cualquier viajero. Está justo al norte de San José, la cascada se hunde a más de 90 metros y tendrás la oportunidad de estar casi solo.",
+      "info": "No hay autobuses turísticos que vayan hasta ahí, pero puedes llegar desde ciudades como Arenal. Además, está muy cerca del Parque Nacional Volcán Poas. Al bajar a la base de la cascada podrás mezclarte con los animales del lugar y ver las conocidas Sombrillas o plantas paraguas.",
+      "maplink": "https://goo.gl/maps/akUo3tPQyvq",
+      "imagelink": "https://i.imgur.com/l6BGyfO.jpg"
+    },
+    {
+      "id": "8",
+      "title": "La Amistad",
+      "province": "Puntarenas",
+      "fact": "Puedes hacer senderismo, caminar por la selva tropical, visitar pueblos indígenas y ver en un mismo lugar muchas más plantas que todas las que has visto hasta ahora.",
+      "info": "Es un parque transfronterizo entre Costa Rica y Panamá.  al reunir la Reserva de la cordillera de Talamanca y el Parque Nacional La Amistad, respectivamente, en una sola entidad donde la dirección es compartida entre las dos naciones. El parque fue declarado Patrimonio de la Humanidad por la UNESCO.",
+      "maplink": "https://goo.gl/maps/gfNKb4UhoSQ2",
+      "imagelink": "https://i.imgur.com/JSEFxXd.jpg"
+    },
+    {
+      "id": "9",
       "title": "Las Baulas",
       "province": "Guanacaste",
       "fact": "El Parque Nacional Marino Las Baulas fue creado con el fin de brindar protección a las poblaciones de tortugas baula que llegan a anidar a tres playas principales del parque: Grande (3.6 km), Ventanas (1 km) y Langosta (1.3 km).",
       "info": "La tortuga baula es la especie de tortuga más grande del mundo y se encuentra en peligro crítico de extinción, y la zona de desove del Parque Nacional Marino Las Baulas es la región de anidación más importante de esta tortuga en todo el Pacífico americano. Además, el parque también protege el manglar del estuario del río Matapalo, en el Estero de Tamarindo, el cual es un Sitio Ramsar y se considera el manglar estatuario más grande de América Latina; igualmente, el parque también protege un remanente de bosque seco localizado en el cerro El Morro.",
       "maplink": "https://goo.gl/maps/F8VvJoEkUMF2",
-      "imagelink": "https://i.imgur.com/3CLmd0a.jpg"
+      "imagelink": "https://i.imgur.com/5vUeTGf.jpg"
     },
     {
-      "id": "4",
+      "id": "10",
+      "title": "Manuel Antonio",
+      "province": "Puntarenas",
+      "fact": "Manuel Antonio fue seleccionado por la Revista Forbes en 2011 entre la lista de los 12 parques más bellos del mundo.",
+      "info": "Por su excelente clima y belleza escénica es visitado por gran cantidad de turismo nacional e internacional, para lo cual está en la actualidad desarrollando una infraestructura adecuada, con énfasis en la armonía con la naturaleza, de calidad pero mimetizada con esta para reducir el impacto visual y bajo estrictas normas de protección ambiental, obras diseñadas por los reconocidos arquitectos bioclimáticos Ibo Bonilla y Rafael Víquez, entre las que se encuentran el Centro de Visitantes, la Casa de Guardaparques, Miradores e infraestructura de apoyo y el Plan Maestro de Senderos que incluye senderos: Punta Catedral, Cascada, Mirador, Playa Espadilla, Playa Manuel Antonio, Congos, Playas Gemelas, Puerto Escondido, Manglar y sendero Perezosos, con facilidades de accesibilidad universal, áreas de descanso, miradores panorámicos y de interpretación científica.",
+      "maplink": "https://goo.gl/maps/NmEKr7ky34y",
+      "imagelink": "https://i.imgur.com/9uX0ySt.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Ballena",
+      "province": "Puntarenas",
+      "fact": "El parque es reconocido porque recibe la visita de las ballenas jorobadas durante su travesía para reproducción desde los mares fríos del hemisferio norte a Costa Rica (diciembre a abril) y viceversa, y desde los mares fríos del hemisferio sur a Costa Rica (julio a noviembre) y viceversa, también para reproducirse.",
+      "info": "Fue el primer parque marino en Costa Rica y Centroamérica, la primer área protegida que se crea exclusivamente por sus recursos marinos. Cuenta con aproximadamente 15km de playa y su extensión terrestre es solamente la franja de los 50 metros públicos.",
+      "maplink": "https://goo.gl/maps/zbNRuLL7qcx",
+      "imagelink": "https://i.imgur.com/HqnJAU3.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Los Quetzales",
+      "province": "San José, Puntarenas",
+      "fact": "Los Quetzales fue creado para conservar los ambientes naturales de altura (en especial de los robledales, los bosques nublados y el páramo), preservar la función hidrológica de estos bosques y proteger de los hábitats de especies endémicas y de reproducción del quetzal.",
+      "info": "Este Parque presenta principalmente dos zonas de vida de acuerdo al Sistema de Holdridge: Bosque Pluvial Montano y Bosque Muy Húmedo Montano Bajo. Adicionalmente, algunas zonas altas de la cordillera presentan el Páramo subalpino. Por lo tanto, el área abarca tres tipos de bosque tropical, y catorce diferentes ecosistemas. Ubicado a gran altitud (entre 2.000-3.000 msnm) a lo largo de la cordillera de Talamanca, la mayor parte del Parque está cubierto de bosque nuboso y protege un hábitat crucial para un número de especies vegetales y animales. Estas condiciones le dan una particular riqueza en flora, fauna y recurso hídrico. Es importante señalar que, en lo particular, brinda protección a la cuenca del río Savegre.",
+      "maplink": "https://goo.gl/maps/BQiQAdQH9cR2",
+      "imagelink": "https://i.imgur.com/CV7WNjU.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Palo Verde",
+      "province": "Guanacaste",
+      "fact": "La vegetación muestra la alternancia del manglar, el bosque perennifolio, el anegado, el bosque mixto, el caducifolio de llanura, el bosque de ribera y los pastizales, que conforman un hábitat idóneo para aves (colibrís como (Archilocus colubris), piches (Dendrocygna autumnalis),cercetas aliazules (Egretta caerulea), martinetes coroninegros, quetzales, Jacanas (Jacana spinosa), Lapas rojas (Ara macao, Pavas (Crax rubra) y otro tipo de fauna, como cocodrilos, monos carablanca y congo, venados, armadillos, saínos.",
+      "info": "El Parque Nacional Palo Verde es de suma importancia para las aves migratorias que utilizan éste espacio para alimentarse o reproducirse, además que tiene multiples senderos que llevan a diferentes lomas donde se aprecia un paisaje sorprendentemente particular.",
+      "maplink": "https://goo.gl/maps/C3r6gGkKo1F2",
+      "imagelink": "https://i.imgur.com/2nC30VN.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Piedras Blancas",
+      "province": "Puntarenas",
+      "fact": "Este área fue creada con el propósito de proteger el último bosque tropical lluvioso del sector de Golfito y la cuenca del río Esquinas.",
+      "info": "Su vegetación es característica al bosque tropical húmedo lluvioso de la vertiente pacífica centroamericana. El terreno en parte es característico ácido y la vegetación está compuesta por: árboles de hasta 50 mts. de altura como el ceiba, nazarenos y el pilón; muchos de estos cargados de una gran variedad de musgos y plantas epífitas, además una gran variedad de helechos.",
+      "maplink": "https://goo.gl/maps/PqCcYJ6EEiz",
+      "imagelink": "https://i.imgur.com/i1QNUAu.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Rincón de la Vieja",
+      "province": "Alajuela, Guanacaste",
+      "fact": "Conocerá desde un bosque seco hasta uno nuboso en medio de un ambiente volcánico en un recorrido de corta duración.",
+      "info": "Emanaciones de lodo hirviendo, agua en ebullición y vapores que resuenan en el ambiente... Usted puede ser testigo de toda esta actividad volcánica y, además, puede visitar un bosque seco, uno húmedo, uno muy húmedo y uno nuboso en tan solo dos horas.",
+      "maplink": "https://goo.gl/maps/SJ89vBSCqw42",
+      "imagelink": "https://i.imgur.com/B274WeJ.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Santa Rosa",
+      "province": "Guanacaste",
+      "fact": "es el más antiguo del país y cuenta con varias especies en peligro de extinción.",
+      "info": "El Parque nacional Santa Rosa protege grandes fragmentos de bosque tropical (bosque que anteriormente cubría todo Guanacaste). Este bosque da cobijo a una amplia variedad de vida salvaje, destacan entre los mamíferos los jaguares, pumas, dantas, venados y pecaríes. Entre las aves, pavones, urracas, tucanes, águilas pescadoras, etc. Entre los reptiles destacan las tortugas carey, baula, verde y lora.",
+      "maplink": "https://goo.gl/maps/yxymUDSPGP32",
+      "imagelink": "https://i.imgur.com/ynB85D4.jpg"
+    },
+    {
+      "id": "17",
       "title": "Tapantí",
       "province": "Cartago",
       "fact": "El parque logra cubrir una gran variedad de biodiversidad en un poco espacio gracias a lo aislado de la zona y a la variedad de alturas que presenta el terreno.",
@@ -46,13 +163,76 @@
       "imagelink": "https://i.imgur.com/QB1dasT.jpg"
     },
     {
-      "id": "5",
+      "id": "18",
+      "title": "Tortuguero",
+      "province": "Limón",
+      "fact": "Es el área más importante de toda la mitad occidental del Caribe, para el desove de la tortuga verde.",
+      "info": "Exuberante, paradisiaco, místico... una red de maravillosos y escénicos canales navegables. Considerada una de las regiones más ricas en flora y fauna de Costa Rica.Tortuguero es una de las áreas más silvestres en Costa Rica, con la variedad biológica más grande. Once hábitats han sido identificados, así como 2000 especies de plantas y 400 especies de árboles. Hay también una muy amplia variedad de vida silvestre",
+      "maplink": "https://goo.gl/maps/zKEm5dcYrp72",
+      "imagelink": "https://i.imgur.com/o7wUSKI.jpg"
+    },
+    {
+      "id": "19",
+      "title": "Volcán Irazú",
+      "province": "Cartago",
+      "fact": "Su nombre es de origen indígena, proviene de la palabra Istarú que significa cerro del temblor y del trueno. A través de los años se modificó a Irazú.",
+      "info": "Es el más alto y grande del país, y uno de los pocos que siguen activos. Eso sí, no estarás solo: otras 100.000 personas lo visitan cada año. tiene cuatro cráteres, 2 principales que son el principal y el cráter Diego de la Haya; y después están los dos secundarios en el área sureste del parque.",
+      "maplink": "https://goo.gl/maps/BDj7hUerBN22",
+      "imagelink": "https://i.imgur.com/pgsPhmK.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Volcán Tenorio",
+      "province": "Guanacaste",
+      "fact": "Dentro de su territorio se encuentra el macizo del volcán Tenorio, compuesto de varios conos y cráteres, así como el río Celeste, de gran atracción turística.",
+      "info": "La región protegida por el Parque nacional Volcán Tenorio se considera de gran valor natural. El sitio cuenta con grandes territorios de bosque virgen, dado que la intrusión humana ha sido relativamente poca. Esto ha permitido la conservación de hábitats naturales vitales para la preservación de especies en peligro de extinción, como el tepezcuintle, la danta y el puma.",
+      "maplink": "https://goo.gl/maps/c85TvAxEpnk",
+      "imagelink": "https://i.imgur.com/t55pznd.jpg"
+    },
+    {
+      "id": "21",
+      "title": "Volcán Poás",
+      "province": "Alajuela",
+      "fact": "¿Cuántas veces en la vida podemos ver un volcán azul a más de 2700 metros?",
+      "info": "Por 15 dólares puedes visitar este Parque Nacional a 50km de San José y caminar sobre la cima de este cráter activo. Y si te atreves, puedes mirar hacia abajo para ver la laguna de aguas verdes a 40º de temperatura.",
+      "maplink": "https://goo.gl/maps/HU3f4tob9SU2",
+      "imagelink": "https://i.imgur.com/hH7kVY4.jpg"
+    },
+    {
+      "id": "22",
+      "title": "Carara",
+      "province": "Puntarenas",
+      "fact": "Si buscas especies en peligro de extinción, es probable que las encuentres en Carara, a 50 minutos de San José y cerca de la carretera principal.",
+      "info": "Puedes salir a observar las aves temprano por la mañana, es un lugar lleno de paz y tranquilidad con muchos senderos, y además es uno de los pocos parques adaptados para personas con discapacidad.",
+      "maplink": "https://goo.gl/maps/vrvUUaohZ2p",
+      "imagelink": "https://i.imgur.com/7JIe8rA.jpg"
+    },
+    {
+      "id": "22",
+      "title": "Volcán Turrialba",
+      "province": "Cartago",
+      "fact": "Es el segundo volcán más alto del país con 3340 metros sobre el nivel del mar.",
+      "info": "El volcán es el gran receptor del parque debido que se caracteriza por ser el segundo más alto y tener tres cráteres más notables e impresionantes. Gracias a su actividad el volcán ha atraído visitantes al parque pero no los suficientes.",
+      "maplink": "https://goo.gl/maps/i6TUXjfRhuN2",
+      "imagelink": "https://i.imgur.com/Ib66K2M.jpg"
+    },
+    {
+      "id": "23",
+      "title": "La Cangreja",
+      "province": "San José",
+      "fact": "Su origen data de 1984, cuando se le otorgó la categoría de Zona Protectora. Posteriormente, el 5 de junio de 2002 se declaró como Parque nacional La Cangreja.",
+      "info": "La Cangreja forma parte del Sistema Nacional de Áreas de Conservación (SINAC).  Ademas contiene las últimas partes naturales inalteradas de toda la región de Puriscal, también es la principal fuente de abastecimiento de agua para algunas comunidades aledañas (Mastatal, San Vicente, San Miguel y el territorio indígena de Zapatón, entre otras) y sirve para estabilizar el clima local. Aquí se encuentran los ríos Negro y la Quebrada Grande. El Parque también cuenta con espectaculares cataratas y posee dos zonas de vida: bosque muy húmedo transición a premontano y bosque pluvial premontano.",
+      "maplink": "https://www.waze.com/es/directions/costa-rica/santa-rosa,-chires/parque-nacional-la-cangreja/180617313.1806173131.5295198.html",
+      "imagelink": "https://i.imgur.com/j8n9uYV.jpg"
+    },
+    {
+      "id": "24",
       "title": "Isla del Coco",
       "province": "Puntarenas",
       "fact": "Se dice que su nombre deriva de la gran cantidad de cocos que había en la isla, pero cobra fuerza una versión metafórica de su parecido a un coco con mucha agua por dentro, dada la escasez de agua potable en cientos de kilómetros a la redonda y allí en cambio se han contado más de 2000 cascadas que caen al mar durante eventos lluviosos grandes.",
       "info": "La isla es considerada un laboratorio natural para el estudio de la evolución de las especies. Es extremadamente lluviosa, unos 7.000 mm por año, cubierta de un bosque siempreverde, el cual presenta condición nubosa en el Cerro Iglesias. Es muy quebrada, lo que da lugar a la formación de muchas cascadas, algunas de las cuales caen espectacularmente al mar, desde gran altura. La costa es muy sinuosa, tiene acantilados de hasta 183 metros de altura y numerosas cuevas submarinas. El mar, azul turquesa es de extraordinaria transparencia.",
       "maplink": "https://goo.gl/maps/6UDCeeYy3Cq",
-      "imagelink": "https://i.imgur.com/TMVqRwE.jpg"
+      "imagelink": "https://i.imgur.com/28PWJgc.jpg"
     }
   ]
 }

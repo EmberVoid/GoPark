@@ -25,8 +25,8 @@ class App extends React.Component {
           <Header />
           <main>
             <Switch>
-              <Route exact path='/' component={SanJose} />
-              <Route path='/alajuela' component={Alajuela} />
+              <Route exact path='/' component={SanJose}/>
+              <Route path='/alajuela' component={Alajuela}/>
               <Route path='/cartago' component={Cartago} />
               <Route path='/heredia' component={Heredia} />
               <Route path='/guanacaste' component={Guanacaste} />

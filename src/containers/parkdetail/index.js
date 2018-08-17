@@ -1,6 +1,7 @@
 import React from 'react'
-import { map, filter, contains } from 'ramda'
+import { map } from 'ramda'
 import Parkdetail from '../../components/parkdetail/'
+import LoadingScreen from '../../components/loadingscreen/'
 
 const API = 'http://localhost:3000/parks'
 
@@ -11,7 +12,7 @@ class ParkDetailContainer extends React.Component {
     error: null,
   }
 
-  async componentDidMount() {
+  async componentWillMount() {
     this.setState({ isLoading: true })
 
     try {
@@ -31,20 +32,29 @@ class ParkDetailContainer extends React.Component {
   }
 
   parkItemCreator = park => <Parkdetail key={park.id} park={park} />
+  getObjects = (d, f) => d.filter(o => Object.keys(o).some(k => o[k].includes(f)));
+
+  getParking(parks, province) {
+    let parksPerProvince;
+    parksPerProvince = this.getObjects(parks, province)
+    return parksPerProvince
+  }
 
   render() {
     const { parks, isLoading, error } = this.state
 
+    let Parksfiltered
+    Parksfiltered = this.getParking(parks, this.props.province)
+    console.log(this.state.province)
     return (
       <ul>
         {
           isLoading
-            ? <p>Loading...</p>
+            ? <LoadingScreen />
             : error
               ? <p>Error...</p>
               : (
-                map(this.parkItemCreator, parks),
-                console.log(parks)
+                map(this.parkItemCreator, Parksfiltered)
               )
         }
       </ul>

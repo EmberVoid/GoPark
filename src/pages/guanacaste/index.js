@@ -7,7 +7,7 @@ const guanacaste = () => {
   return (
     <div>
           <FullBleed />
-          <ParkDetail />
+          <ParkDetail province ='Guanacaste'/>
     </div>
   )
 }

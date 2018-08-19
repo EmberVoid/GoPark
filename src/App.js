@@ -2,10 +2,12 @@ import 'babel-polyfill'
 
 import React from 'react'
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import Header from './components/header/'
 
 import './assets/scss/main.scss'
 
-import Header from './components/header/'
+/*Landing Page*/
+import Landing from './pages/landing/'
 
 /* pages */
 import SanJose from './pages/sanJose/'
@@ -25,8 +27,9 @@ class App extends React.Component {
           <Header />
           <main>
             <Switch>
-              <Route exact path='/' component={SanJose}/>
-              <Route path='/alajuela' component={Alajuela}/>
+              <Route exact path='/' component={Landing} />
+              <Route path='/san' component={SanJose} />
+              <Route path='/alajuela' component={Alajuela} />
               <Route path='/cartago' component={Cartago} />
               <Route path='/heredia' component={Heredia} />
               <Route path='/guanacaste' component={Guanacaste} />

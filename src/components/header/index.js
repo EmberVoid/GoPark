@@ -6,7 +6,7 @@ import logo from './logo.png'
 
 const Header = () => {
   return (
-    <nav className={"db dt-l w-100 border-box pa2 ph5-l bg-white"}>
+    <nav className={"db dt-l w-100 border-box pa2 ph5-l bg-white navBarGoPark"}>
       <span className={"db dtc-l v-mid mid-gray link dim w-100 w-25-l tc tl-l mb2 mb0-l"} title="Go Park">
         <Link to='/'>
           <img src={logo} className={"br-100 ba h3 w3 dib"} alt="Site Name" />

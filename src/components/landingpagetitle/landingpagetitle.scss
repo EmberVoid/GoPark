@@ -1,0 +1,34 @@
+.aligne {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+  }
+
+  .homeTitle{
+    font-family: 'Eczar', serif;
+    font-size: 3rem;
+    line-height: 1.25;
+  }
+
+  .c-aqua{
+    color: #19A68C;
+  }
+
+  .c-red{
+    color: #F63D3A;
+  }
+
+  .c-yellow{
+    color: #FDA543;
+  }
+
+  .c-blue{
+    color: #193B48;
+  }
+
+  @media only screen and (max-width: 575.98px) {
+    .homeTitle {
+      font-size: 2rem;
+    }
+}

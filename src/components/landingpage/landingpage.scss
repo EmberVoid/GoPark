@@ -1,5 +1,11 @@
 .tilt-img{
-    background-image: url(https://i.imgur.com/olDyqIE.png);
-    height: 50vh;
-    width: 50vw;
+    transform: translateZ(20px);
 }
+
+.Aligner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    z-index: -1;
+  }

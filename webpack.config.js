@@ -1,4 +1,5 @@
 const HtmlWebPackPlugin = require('html-webpack-plugin')
+const HtmlWebpackHarddiskPlugin = require('html-webpack-harddisk-plugin');
 
 module.exports = {
   module: {
@@ -39,13 +40,19 @@ module.exports = {
             options: {}
           }
         ]
-      }
+      },
     ]
   },
   plugins: [
     new HtmlWebPackPlugin({
+      alwaysWriteToDisk: true,
       template: './src/index.html',
-      filename: './index.html'
-    })
-  ]
+      filename: './index.html',
+      publicPath: '/'
+    }),
+    new HtmlWebpackHarddiskPlugin()
+  ],
+  devServer: {
+    historyApiFallback: true,
+  }
 }
